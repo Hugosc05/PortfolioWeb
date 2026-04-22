@@ -1,0 +1,17 @@
+[
+  {
+    "title": "CheersReal App - Red Social Privada",
+    "description": "Creador y Director de la aplicación. Red social diseñada desde cero con un enfoque integral en la privacidad y una experiencia de usuario única y fluida.",
+    "link": "https://cheersreal.com",
+    "github": "https://github.com/Hugosc05",
+    "image": "/projects/CheersReal.png",
+    "tags": ["REACTNATIVE", "PYTHON"]
+  },
+  {
+    "title": "Soluciones de Gestión B2B",
+    "description": "Desarrollo de portales corporativos de alta velocidad y aplicaciones de gestión interna. Arquitectura protegida con estándares de ciberseguridad industrial.",
+    "github": "https://github.com/Hugosc05",
+    "image": "/projects/TimeWise.png",
+    "tags": ["NEXT", "TAILWIND"]
+  }
+]
