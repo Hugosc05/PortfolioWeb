@@ -1,0 +1,50 @@
+[
+  {
+    "title": "IA: De 0 a Producción",
+    "issuer": "Datahack",
+    "date": "2026",
+    "hours": null,
+    "tags": ["IA", "MLOps", "Producción"],
+    "file": "/certificates/ia-produccion.pdf"
+  },
+  {
+    "title": "Fundamentos de Deep Learning con PyTorch",
+    "issuer": "Universidad de Extremadura · Tech4Efficiency",
+    "date": "Octubre 2025",
+    "hours": 6,
+    "tags": ["PyTorch", "Python", "Deep Learning"],
+    "file": "/certificates/pytorch-deep-learning.pdf"
+  },
+  {
+    "title": "Implementación de Chatbots Locales y Privados",
+    "issuer": "Universidad de Extremadura · Tech4Efficiency",
+    "date": "Octubre 2025",
+    "hours": 6,
+    "tags": ["Chatbots", "LLM", "IA"],
+    "file": "/certificates/chatbots-locales.pdf"
+  },
+  {
+    "title": "IA Generativa en Entornos Empresariales",
+    "issuer": "Universidad de Extremadura · Tech4Efficiency",
+    "date": "Abril 2025",
+    "hours": 4,
+    "tags": ["IA Generativa", "Empresas"],
+    "file": "/certificates/ia-generativa-empresas.pdf"
+  },
+  {
+    "title": "Introducción al Deep Learning con Python",
+    "issuer": "Universidad de Extremadura · Tech4Efficiency",
+    "date": "Septiembre 2024",
+    "hours": 6,
+    "tags": ["Python", "Deep Learning", "IA"],
+    "file": "/certificates/deep-learning-python.pdf"
+  },
+  {
+    "title": "PBC y LOPD",
+    "issuer": "Instituto e-Learning del Seguro · OVB Allfinanz",
+    "date": "Mayo 2026",
+    "hours": 25,
+    "tags": ["Compliance", "Legal", "LOPD"],
+    "file": "/certificates/pbc-lopd.pdf"
+  }
+]
